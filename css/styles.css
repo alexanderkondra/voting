@@ -1,3 +1,13 @@
-.over18, .under18 {
+
+.row {
   display: none;
+}
+.starlight {
+  background-color: lightblue;
+  font-weight: bolder;
+}
+
+.starlight2 {
+  background-color: lightgreen;
+  font-style: italic;
 }
